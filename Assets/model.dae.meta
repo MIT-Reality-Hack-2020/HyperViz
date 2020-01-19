@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: 6dfb31648fa04824b8ef4e93be54f914
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube100
+    100004: pCube101
+    100006: pCube104
+    100008: pCube106
+    100010: pCube55
+    100012: pCube59
+    100014: pCube82
+    100016: pCube98
+    100018: pCube99
+    100020: pCylinder84
+    100022: polySurface104
+    100024: polySurface105
+    100026: polySurface12
+    100028: polySurface13
+    100030: polySurface133
+    100032: polySurface213
+    100034: polySurface26
+    100036: polySurface263
+    100038: polySurface305
+    100040: polySurface33
+    100042: polySurface331
+    100044: polySurface361
+    100046: polySurface363
+    100048: polySurface364
+    100050: polySurface368
+    100052: polySurface370
+    100054: polySurface371
+    100056: polySurface372
+    100058: polySurface381
+    100060: polySurface383
+    100062: polySurface384
+    100064: polySurface388
+    100066: polySurface40
+    100068: polySurface47
+    100070: polySurface64
+    100072: pPlane18
+    100074: pPlane32
+    100076: pPlane42
+    100078: pPlane79
+    100080: pPlane80
+    100082: pSphere5
+    100084: pSphere9
+    400000: //RootNode
+    400002: pCube100
+    400004: pCube101
+    400006: pCube104
+    400008: pCube106
+    400010: pCube55
+    400012: pCube59
+    400014: pCube82
+    400016: pCube98
+    400018: pCube99
+    400020: pCylinder84
+    400022: polySurface104
+    400024: polySurface105
+    400026: polySurface12
+    400028: polySurface13
+    400030: polySurface133
+    400032: polySurface213
+    400034: polySurface26
+    400036: polySurface263
+    400038: polySurface305
+    400040: polySurface33
+    400042: polySurface331
+    400044: polySurface361
+    400046: polySurface363
+    400048: polySurface364
+    400050: polySurface368
+    400052: polySurface370
+    400054: polySurface371
+    400056: polySurface372
+    400058: polySurface381
+    400060: polySurface383
+    400062: polySurface384
+    400064: polySurface388
+    400066: polySurface40
+    400068: polySurface47
+    400070: polySurface64
+    400072: pPlane18
+    400074: pPlane32
+    400076: pPlane42
+    400078: pPlane79
+    400080: pPlane80
+    400082: pSphere5
+    400084: pSphere9
+    2100000: Medicaltable2
+    2100002: lambert1
+    2100004: floor1
+    2100006: kimo2
+    2100008: Kimo1
+    2100010: walldetail4
+    2100012: kimo3
+    2100014: Generatorforkimo
+    2100016: wall3
+    2100018: Stairs
+    2100020: Walldetail1
+    2100022: box2
+    2100024: ceiling1
+    2100026: lights
+    2100028: Doors
+    2100030: wall1
+    2100032: ceiling3
+    2100034: Medicaltable1
+    2100036: Hologramtabletopbottom
+    2100038: Chairs
+    2100040: box
+    2100042: TV
+    2100044: Control_panels
+    2100046: Computers
+    2100048: glass
+    2100050: Hologramtablegenerator
+    2100052: Wallpopout
+    2100054: wall2
+    2100056: Shelve
+    2100058: Columns
+    2100060: tubes
+    2100062: walldetail2
+    2100064: floor2
+    2100066: ceiling2
+    2100068: floor3
+    2100070: Details
+    2100072: Hologram
+    2300000: pCube100
+    2300002: pCube101
+    2300004: pCube104
+    2300006: pCube106
+    2300008: pCube55
+    2300010: pCube59
+    2300012: pCube82
+    2300014: pCube98
+    2300016: pCube99
+    2300018: pCylinder84
+    2300020: polySurface104
+    2300022: polySurface105
+    2300024: polySurface12
+    2300026: polySurface13
+    2300028: polySurface133
+    2300030: polySurface213
+    2300032: polySurface26
+    2300034: polySurface263
+    2300036: polySurface305
+    2300038: polySurface33
+    2300040: polySurface331
+    2300042: polySurface361
+    2300044: polySurface363
+    2300046: polySurface364
+    2300048: polySurface368
+    2300050: polySurface370
+    2300052: polySurface371
+    2300054: polySurface372
+    2300056: polySurface381
+    2300058: polySurface383
+    2300060: polySurface384
+    2300062: polySurface388
+    2300064: polySurface40
+    2300066: polySurface47
+    2300068: polySurface64
+    2300070: pPlane18
+    2300072: pPlane32
+    2300074: pPlane42
+    2300076: pPlane79
+    2300078: pPlane80
+    2300080: pSphere5
+    2300082: pSphere9
+    3300000: pCube100
+    3300002: pCube101
+    3300004: pCube104
+    3300006: pCube106
+    3300008: pCube55
+    3300010: pCube59
+    3300012: pCube82
+    3300014: pCube98
+    3300016: pCube99
+    3300018: pCylinder84
+    3300020: polySurface104
+    3300022: polySurface105
+    3300024: polySurface12
+    3300026: polySurface13
+    3300028: polySurface133
+    3300030: polySurface213
+    3300032: polySurface26
+    3300034: polySurface263
+    3300036: polySurface305
+    3300038: polySurface33
+    3300040: polySurface331
+    3300042: polySurface361
+    3300044: polySurface363
+    3300046: polySurface364
+    3300048: polySurface368
+    3300050: polySurface370
+    3300052: polySurface371
+    3300054: polySurface372
+    3300056: polySurface381
+    3300058: polySurface383
+    3300060: polySurface384
+    3300062: polySurface388
+    3300064: polySurface40
+    3300066: polySurface47
+    3300068: polySurface64
+    3300070: pPlane18
+    3300072: pPlane32
+    3300074: pPlane42
+    3300076: pPlane79
+    3300078: pPlane80
+    3300080: pSphere5
+    3300082: pSphere9
+    4300000: polySurface13
+    4300002: polySurface26
+    4300004: polySurface33
+    4300006: polySurface40
+    4300008: polySurface47
+    4300010: polySurface64
+    4300012: pPlane18
+    4300014: polySurface104
+    4300016: polySurface105
+    4300018: pCube55
+    4300020: polySurface133
+    4300022: pSphere5
+    4300024: pCube59
+    4300026: pPlane32
+    4300028: pPlane42
+    4300030: polySurface305
+    4300032: pCube82
+    4300034: polySurface331
+    4300036: pCube98
+    4300038: pCube99
+    4300040: pPlane79
+    4300042: pPlane80
+    4300044: polySurface12
+    4300046: pCube100
+    4300048: polySurface361
+    4300050: pCube101
+    4300052: polySurface363
+    4300054: pCube104
+    4300056: polySurface364
+    4300058: polySurface368
+    4300060: polySurface370
+    4300062: polySurface371
+    4300064: polySurface372
+    4300066: polySurface381
+    4300068: pCylinder84
+    4300070: polySurface263
+    4300072: polySurface383
+    4300074: polySurface213
+    4300076: polySurface384
+    4300078: pCube106
+    4300080: polySurface388
+    4300082: pSphere9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chairs
+    second: {fileID: 2100000, guid: 70dd21988622d214ab3601b14c786f95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Columns
+    second: {fileID: 2100000, guid: 3ffe11ed2c98419448b9d03076b0c01d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Computers
+    second: {fileID: 2100000, guid: 8684e3b281895b84d83e2a6d5ef3cd55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Control_panels
+    second: {fileID: 2100000, guid: 47d81fc6ac2fed842979280e1a523452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Details
+    second: {fileID: 2100000, guid: 7a1d8927aba9f9849aec5b7711843d98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doors
+    second: {fileID: 2100000, guid: 305b40a5b8fb589429f63936c69331c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Generatorforkimo
+    second: {fileID: 2100000, guid: db83831361fd3bb408a3e0277040bfd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hologram
+    second: {fileID: 2100000, guid: d5e571baeffef9641bc49612c5eb722f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hologramtablegenerator
+    second: {fileID: 2100000, guid: e2db2e6f5ee27c94f96f6efa36a38eb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hologramtabletopbottom
+    second: {fileID: 2100000, guid: eb04557f2a53af140ad7aeb8dddb9d2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kimo1
+    second: {fileID: 2100000, guid: 9146f9699fe26d34bb74306ad9583266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medicaltable1
+    second: {fileID: 2100000, guid: 420a5998fa46eda45a045cb9a7f43396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medicaltable2
+    second: {fileID: 2100000, guid: 3e500f9ccfe70e6489acbb09193664d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelve
+    second: {fileID: 2100000, guid: 954c4a3a807aba64db9e96436db95619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs
+    second: {fileID: 2100000, guid: 7a45aada946651a45844ec110d60db9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV
+    second: {fileID: 2100000, guid: 25fd2b7a0934ada4f8ebb2d72b0137db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walldetail1
+    second: {fileID: 2100000, guid: d3c937a4791b68247aa3862087b224d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wallpopout
+    second: {fileID: 2100000, guid: 23a64c8a57791df4faaf12c14d549b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box
+    second: {fileID: 2100000, guid: 774376e3b617f494d8c10b53898d8279, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box2
+    second: {fileID: 2100000, guid: 97237c97a69f0da42a81b5fe85f9c8f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling1
+    second: {fileID: 2100000, guid: 83bb3ec097b807448a109a6c579fa0a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling2
+    second: {fileID: 2100000, guid: 540307e5fa9ed0a4ebe4b06d640089ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling3
+    second: {fileID: 2100000, guid: 0461c296aeba69243bafb1af3992d25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor1
+    second: {fileID: 2100000, guid: 48325e42e670ccb479f72bc9b6ef4b5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor2
+    second: {fileID: 2100000, guid: 4a924391e40c74f4d8d4fa8f5128ca5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor3
+    second: {fileID: 2100000, guid: e0f060653ff596d4897b69db0a218024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: df19247e5d753324aa99897a4c503768, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kimo2
+    second: {fileID: 2100000, guid: 6ec2a0a46aedf444897f784626cfd2e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kimo3
+    second: {fileID: 2100000, guid: 906beb53d90378645938d2944023d234, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 80e7a3aa6b505c947a543c1ec1beab11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights
+    second: {fileID: 2100000, guid: b28344bb0d23ee642b20833fcfcc0fe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tubes
+    second: {fileID: 2100000, guid: 0733a78670b735b4884cb28b64497a85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall1
+    second: {fileID: 2100000, guid: 267a7ee3632afa04baaf4455c63a2b80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall2
+    second: {fileID: 2100000, guid: b8bf95b4ea1e80940b6344a23d58fb9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall3
+    second: {fileID: 2100000, guid: f422ec500d646364fb2e4332e9c53f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walldetail2
+    second: {fileID: 2100000, guid: 0e29dc9b28cad6f4bb878b5997ff5630, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walldetail4
+    second: {fileID: 2100000, guid: df2f5b6bd59ae6e438fb5cbfcfa6a8e6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

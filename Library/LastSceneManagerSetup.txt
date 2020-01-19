@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LeapMotionInputSimulation/Scenes/SampleScene 1.unity
+  isLoaded: 1
+  isActive: 1
